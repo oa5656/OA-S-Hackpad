@@ -16,10 +16,15 @@ The PCB itself:
 
 Bill of Materials:
 9x Cherry MX Switches
+
 1x 0.91 inch OLED display
+
 1x XIAO RP2040
+
 9x Blank DSA Keycaps
+
 4x M3x16 Bolt
+
 4x M3 Heatset
 
 The project definitely took a while to learn and make, since it was my first ever PCB. I had some help with autocad inventor since my brother already uses it and helped me make the case, but overall this
